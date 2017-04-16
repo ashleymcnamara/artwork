@@ -11,6 +11,7 @@ These files are ready to print and I suggest [Sticker Mule](https://www.stickerm
 * [Jessie Frazelle](https://twitter.com/jessfraz)
 * [Tyler Britten](https://twitter.com/vmtyler)
 * [Ant Stanley](https://twitter.com/IamStan)
+* [Mat Ryer](https://twitter.com/matryer)
 
 
 ## Software used
