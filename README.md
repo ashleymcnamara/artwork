@@ -24,7 +24,11 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 Please contact me if you wish to use any of this artwork for commercial purposes (anywhere revenue is obtained, including advertising).
 
+
 ## Find me on Twitter:
 
 [@ashleymcnamara](https://twitter.com/ashleymcnamara?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
+
+
+![preview](https://github.com/ashleymcnamara/artwork/blob/master/collage.jpg)
