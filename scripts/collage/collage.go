@@ -24,11 +24,13 @@ var (
 	output   = flag.String("o", "collage.jpg", "output file")
 )
 
+// Item defines a image
 type Item struct {
 	Name  string
 	Image image.Image
 }
 
+// Items defines a list of Item
 type Items []Item
 
 func (xs Items) Len() int           { return len(xs) }
