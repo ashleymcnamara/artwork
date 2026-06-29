@@ -9,7 +9,7 @@ These files are ready to print and I suggest [Sticker Mule](https://www.stickerm
 ## Special shout-out to:
 
 * [Jessie Frazelle](https://x.com/jessfraz)
-* [Tyler Britten](https://x.com/vmtyler)
+* Tyler Britten
 * [Ant Stanley](https://x.com/IamStan)
 * [Mat Ryer](https://x.com/matryer)
 
